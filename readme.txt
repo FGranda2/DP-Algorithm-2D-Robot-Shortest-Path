@@ -1,4 +1,4 @@
-OTTO Coding Challenge (GIT)
+OTTO Coding Challenge (GITHUB UPLOADED)
 The solution for the coding challenge was implemented in Python with Dynamic Programming to determine OTTO's
 best(lowest) possible time.
 
